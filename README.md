@@ -1,29 +1,30 @@
 # DATA-CLEANING-USING-PYTHON.
 **MARKETING CAIMPAIGN DATA CLEANING PROJECT.**
  
-Overview
-
+**Overview**
 This project focuses on cleaning and preparing a messy marketing campaign dataset using Python in a Jupyter Notebook.
 The goal was to transform raw, inconsistent data into a structured and analysis-ready dataset by applying practical data cleaning techniques.
 
 
 
 **Tools & Technologies**
-Python 
-Jupyter Notebook 
-Pandas
+
+Python, 
+Jupyter Notebook, 
+Pandas,
 NumPy
 
 
 **Dataset**
 File: marketing_campaign_data_messy.csv
+
 Contains campaign-level data such as:
-Campaign ID
-Campaign Name
-Channel
-Spend
-Impressions & Clicks
-Start & End Dates
+Campaign ID,
+Campaign Name,
+Channel,
+Spend,
+Impressions & Clicks,
+Start & End Dates,
 Campaign Status (Active/Inactive)
 
 
